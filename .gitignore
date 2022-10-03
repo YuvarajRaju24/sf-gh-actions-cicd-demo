@@ -48,3 +48,8 @@ auth
 changed-sources
 testsSpecific.txt
 testsAll.txt
+
+# authorization files
+auth.json
+authdev.json
+authstage.json

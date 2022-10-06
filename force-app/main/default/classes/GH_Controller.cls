@@ -2,7 +2,7 @@ public with sharing class GH_Controller {
     public GH_Controller() {
         List<String> theList = new List<String>{'str1','str2','str3'};
         for(String item : theList){
-            item += '-check this out'; //added via jira-4567
+            item += '-adfafafaf-adfafafaf'; //added via jira-4567
             item += 'xxxx';
         }
     }

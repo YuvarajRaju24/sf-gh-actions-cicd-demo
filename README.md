@@ -1,7 +1,6 @@
-# Simple CICD for Salesforce using GH Actions
+# Simple CICD for Salesforce using GitHub Actions
 
 All Salesforce code in this repo are "test" code. The purpose of this repo is to demonstrate the capabilities of the YAML files inside the .github/workflows folder.
-Refereed : https://michaelsoriano.com/simple-cicd-for-salesforce-using-sfdx-and-github-actions/
 
 ## Steps
 

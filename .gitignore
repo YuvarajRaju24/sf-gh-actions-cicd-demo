@@ -50,6 +50,6 @@ testsSpecific.txt
 testsAll.txt
 
 # authorization files
-auth.json
+authprod.json
 authdev.json
 authstage.json
